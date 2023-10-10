@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply dark:bg-black dark:text-gray-100 bg-gray-50 text-gray-900;
+  }
+  h1 {
+    @apply text-2xl font-semibold;
+  }
+  h2 {
+    @apply text-xl font-semibold;
+  }
+  h3 {
+    @apply text-lg font-semibold;
+  }
+  /* p {
+    @apply text-slate-700 dark:text-slate-200 text-base py-1;
+  } */
+  pre {
+    @apply max-w-full;
+  }
+  /* a {
+    @apply text-blue-600 underline;
+  } */
+}
+
+pre {
+  height: auto;
+  max-height: 400px;
+  overflow: auto;
+  /* background-color: #eeeeee; */
+  word-break: normal !important;
+  word-wrap: normal !important;
+  white-space: pre !important;
+}
