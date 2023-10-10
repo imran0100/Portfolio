@@ -47,7 +47,7 @@ const AboutPage = () => {
             things I learn.
           </p>
           <p>
-            If you want to
+            If you want to&nbsp;
             <Link href="/contact">
               <a className="text-blue-700 hover:purple underline hover:underline-offset-4">
                 contact me
@@ -133,8 +133,6 @@ const AboutPage = () => {
                 // color={`${true ? "rgb(0,0,0,.8)" : "rgb(0,0,0,.2)"}`}
               />
             </div>
-
-            {/* <NextJSLogo /> */}
           </div>
 
           <div className="my-10">
