@@ -11,7 +11,7 @@ const Hero = () => {
         <h1 className="text-5xl sm:text-7xl font-bold">
           Hi, I&apos;m <span className="dark:text-purple-600">Imran</span>
         </h1>
-        <h3 className="text-4xl my-3">Frontend Developer</h3>
+        <h3 className="text-4xl my-3">Fullstack Developer</h3>
         <p className="dark:text-gray-300 mb-8">
           {`I hold a Bachelor's degree in Computer Science and possess a strong aptitude for creativity and problem-solving. With a background in React, Node.js, and Webflow, I bring a diverse skill set to the world of web development. With ${
             new Date().getFullYear() - 2020
