@@ -19,8 +19,8 @@ const AboutPage = () => {
         <h1>About me</h1>
         <article className="prose mt-6 max-w-none">
           <p>
-            " Hello! I&apos;m Imran. I&apos;m a Computer Engineer - Web & Mobile
-            Developer from India."
+            Hello! I&apos;m Imran. I&apos;m a Computer Engineer - Web & Mobile
+            Developer from India.
           </p>
           <p>
             I hold a Bachelor&apos;s degree in Computer Science and possess a
@@ -47,7 +47,7 @@ const AboutPage = () => {
             things I learn.
           </p>
           <p>
-            If you want to{" "}
+            If you want to
             <Link href="/contact">
               <a className="text-blue-700 hover:purple underline hover:underline-offset-4">
                 contact me
