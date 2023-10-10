@@ -40,11 +40,11 @@ const AboutPage = () => {
           </p>
           <p>
             I created this website for two main reasons. The first one is to
-            showcase and share all the things I've learned during my journey,
-            and who knows?, maybe help others, that like me are learning. The
-            second reason is, I always like to learn new things. So, I wanted
-            this website to be the place where I can put in practice all the new
-            things I learn.
+            showcase and share all the things I&apos;ve learned during my
+            journey, and who knows?, maybe help others, that like me are
+            learning. The second reason is, I always like to learn new things.
+            So, I wanted this website to be the place where I can put in
+            practice all the new things I learn.
           </p>
           <p>
             If you want to&nbsp;
